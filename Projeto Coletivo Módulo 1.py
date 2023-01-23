@@ -4,8 +4,7 @@
 #  !/usr/bin/env python3                                         #
 #  -*- coding: utf-8 -*-                                         #
 #  Criado por: Diego de Arruda Nieto, Douglas Klem Portugal      #
-#  do Amaral, Emanoel Cascaes Gomes, Matheus Barbosa Furtado     #
-#  e Yasmin Belo da Silva                                        #
+#  do Amaral, Matheus Barbosa Furtado e Yasmin Belo da Silva     #
 #  Data de criação: 12/01/2023                                   #
 #  versão = '3.11'                                               #
 ##################################################################
